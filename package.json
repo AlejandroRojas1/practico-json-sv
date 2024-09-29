@@ -1,0 +1,14 @@
+{
+  "name": "practico-json-sv",
+  "version": "0.0.1",
+  "description": "Primer proyecto practico basico de backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Alejandro Rojas",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

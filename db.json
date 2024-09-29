@@ -1,0 +1,70 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apelido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "ReactJS desde Cero"
+        },
+        {
+          "nombre": "JavaScript desde Cero"
+        }
+      ],
+      "id": "fe34"
+    },
+    {
+      "id": "4746",
+      "nombre": "Hernesto",
+      "apelido": "Rodriguez",
+      "materias": [
+        {
+          "nombre": "Matematica"
+        },
+        {
+          "nombre": "Logica"
+        },
+        {
+          "nombre": "algebra"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Alejandro",
+      "apelido": "Rojas",
+      "promedio": 8.2,
+      "id": "c5cd"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apelido": "Storni",
+      "promedio": 10,
+      "id": "de1b"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde Cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "ae99"
+    },
+    {
+      "nombre": "ReactJS desde Cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "1c0b"
+    },
+    {
+      "nombre": "Angular 17 desde Cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "13c1"
+    }
+  ]
+}
